@@ -115,8 +115,8 @@ The dashboard helps businesses understand customer retention behavior, identify 
 ## 🛠 Tools Used
 
 - Power BI
-- Power Query
-- DAX
+- Power Query (Data Cleaning & Transformation)
+- DAX (Measures & Analytical Calculations)
 
 ---
 
